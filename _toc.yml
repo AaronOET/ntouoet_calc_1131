@@ -4,6 +4,10 @@
 format: jb-book
 root: intro
 chapters:
-- file: markdown
-- file: notebooks
-- file: markdown-notebooks
+- file: ch05
+  # sections:
+  #   - file: ch05/fig17.html
+  #     format: html
+# - file: markdown
+# - file: notebooks
+# - file: markdown-notebooks
